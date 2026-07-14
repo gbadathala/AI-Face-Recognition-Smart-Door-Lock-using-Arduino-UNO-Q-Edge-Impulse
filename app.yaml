@@ -1,0 +1,8 @@
+name: zypher
+description: This example shows how to make the LED blink alternately.
+ports: []
+bricks:
+- arduino:video_object_detection:
+    model: ei-model-1051964-1
+- arduino:web_ui: {}
+icon: 🔴
